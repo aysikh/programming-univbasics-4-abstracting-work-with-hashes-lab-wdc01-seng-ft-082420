@@ -1,7 +1,7 @@
 def my_hash_creator(key, value)
   {
-    :name => "Grace Hopper",
-    :id => value
+    :name => value,
+    :id => 5
   }
   
 end
