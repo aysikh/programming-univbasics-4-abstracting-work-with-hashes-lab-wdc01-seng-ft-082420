@@ -7,7 +7,7 @@ end
 
 def read_from_hash(hash, key)
   {
-    hash[:name]
+    read_from_hash[:key]
   }
 end
 
